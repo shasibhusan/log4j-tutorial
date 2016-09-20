@@ -6,7 +6,10 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.log4j.helpers.Loader;
 import org.apache.log4j.xml.DOMConfigurator;
+/**
 
+*  used for Logging data into LOg application file
+/
 public class LogAndWatchClass {
     private static org.apache.log4j.Logger log;
 
