@@ -12,18 +12,6 @@ public class LogClass {
 	    .getLogger(LogClass.class);
 public void getI(){};
     public static void main(String[] args) {
-
-	// use the loader helper from log4j
-	// URL url = Loader.getResource("my.properties");
-	// PropertyConfigurator.configure(url);
-
-	// use the same class loader as your class
-	// URL url = LogClass.class.getResource("/my.properties");
-	// PropertyConfigurator.configure(url);
-
-	// load custom XML configuration
-	// URL url = Loader.getResource("my.xml");
-	// DOMConfigurator.configure(url);
 	
 	log.trace("Trace");
 	log.debug("Debug");
