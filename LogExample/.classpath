@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/mail.jar"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/smtp.jar"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/dsn.jar"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/mailapi.jar"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/imap.jar"/>
+	<classpathentry kind="lib" path="/home/hennebrueder/setting/java_lib/javamail-1.4/pop3.jar"/>
+	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
+	<classpathentry kind="lib" path="log4j-1.2.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
